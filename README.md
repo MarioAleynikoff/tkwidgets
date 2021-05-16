@@ -1,2 +1,2 @@
 # tkwidgets
-a collections of new ot extended tkinter widgets
+a collections of new or extended tkinter widgets
