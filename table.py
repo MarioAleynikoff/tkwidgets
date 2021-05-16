@@ -366,3 +366,7 @@ class Table(tk.PanedWindow):
         self.update()
         print(type(widget))
         print(type(widget))
+
+"""
+LOVE
+"""
