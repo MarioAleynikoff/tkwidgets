@@ -365,3 +365,4 @@ class Table(tk.PanedWindow):
         self.update_idletasks()
         self.update()
         print(type(widget))
+        print(type(widget))
